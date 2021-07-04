@@ -1,0 +1,2 @@
+1a. wrong conditional statement. it should be ( value >=0 && value <= 10)
+1b. infinite loop

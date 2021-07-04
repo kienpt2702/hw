@@ -1,0 +1,3 @@
+Wrong:
+1. new int[n] -> maybe new int[size]
+2. wrong return type: return the whole array while it shoule return an int
